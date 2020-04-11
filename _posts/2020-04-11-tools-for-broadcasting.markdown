@@ -5,7 +5,7 @@ date:   2020-04-09 08:41:10 -0400
 categories: update
 ---
 
-Broadcastin Music and Voice with DJ Mixing Software (using Mixx)
+Broadcasting Music and Voice with DJ Mixing Software (using Mixx)
 If you'd like to do a show that is mostly music, from your own digital music collection, there's a great free DJ software that works on PC or Mac. It's called Mixx and it can connect directly to our online stream. One nice thing about this, is that it'll send some music metadata (artist and song title) up to our online stream, so people can see what you're playing as you play it.
 
 Install Mixx from their website: http://www.mixxx.org/download/#stable
