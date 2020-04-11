@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Maybe we’re broadcasting, maybe not. [Tune in here.](http://streaming.live365.com/a81963)
+This is our about page.
+
+<iframe src="https://broadcaster.live365.com/v1/now-playing/large/a81963" width='440px' height='240px' frameborder="0"/>
