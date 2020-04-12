@@ -15,7 +15,8 @@ Follow the instructions on Mixxx's website to enable MP3 streaming.
 [Instructions for Mac OSX](https://www.mixxx.org/wiki/doku.php/internet_broadcasting#mac_osx).  
 In Mixxx, locate the “Preferences" tab, under the Options section.  
 Scroll to the bottom in the right pane to find the Live Broadcasting option.  
-  
+![mixx-preferences](https://raw.githubusercontent.com/social-distance-radio/website/master/_media/mixx-preferences.png)
+
 Fill out the fields below:  
 Type: Icecast 2  
 Host:  
